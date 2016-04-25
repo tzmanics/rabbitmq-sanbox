@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-sandbox",
+  "version": "0.0.0",
+  "description": "A sandobox for playing with rabbits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzmanics/rabbitmq-sanbox.git"
+  },
+  "author": "Tara Z. Manicsic <tara@modulus.io> (http://tzmanics.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzmanics/rabbitmq-sanbox/issues"
+  },
+  "homepage": "https://github.com/tzmanics/rabbitmq-sanbox#readme",
+  "dependencies": {
+    "amqplib": "~0.4.1"
+  }
+}
